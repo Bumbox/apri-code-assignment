@@ -1,9 +1,9 @@
-import NxWelcome from './nx-welcome';
+import MainPage from "../components/MainPage";
 
 export function App() {
   return (
     <div>
-      <NxWelcome title="apri-code-assignment" />
+      <MainPage/>
     </div>
   );
 }
